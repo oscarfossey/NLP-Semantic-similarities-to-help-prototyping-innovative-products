@@ -17,3 +17,6 @@ modul defining the main NLP function using gensim and stanza:
 - estimating the similarity score
 - PDF to text function 
 - blocnotes_ to text function
+
+
+![alt text](https://github.com/oscarfossey/NLP-Semantic-similarities-to-help-prototyping-innovative-products/blob/main/DREAM%20project%20LCPI%20Fossey/Paper%20and%20Video%20of%20presentation/Ima%20dreamtool%20anglais.JPG?raw=true)
